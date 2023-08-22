@@ -1,5 +1,5 @@
 # Football Space Invaders
-This project was developed using the Unity3D game engine
+This project was developed using the Unity3D game engine with scripts written in C#
 
 ![cs project](https://github.com/KieranWarre/A-Level-CS-Project/assets/51061519/a52d7548-e375-470b-a241-92f6f3d25517)
 
